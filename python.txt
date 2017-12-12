@@ -1,0 +1,4 @@
+WHAT IS PYTHON?
+python is a general purpose interpreted ,interactive ,high level programmabing language.
+Created by "Guido van rossum"
+Released in 1991
